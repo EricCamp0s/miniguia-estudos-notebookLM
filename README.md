@@ -19,7 +19,7 @@
 
 ### Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do **Desafio de Projeto da DIO** para explorar o **NotebookLM** como ferramenta de aprendizagem ativa. O objetivo é demonstrar habilidades em:
+Este projeto foi desenvolvido como parte do Desafio de Projeto da DIO para explorar o NotebookLM como ferramenta de aprendizagem ativa. O objetivo é demonstrar habilidades em:
 
 - **Inteligência Artificial Generativa**: Aplicação prática com Microsoft Copilot
 - **Automação de Processos**: RPA e automação inteligente
@@ -300,3 +300,6 @@ fontes/
 |   ├── https://www.ibm.com/br
 |   ├── pdfcoffee.com_python-para-analise-de-dados-wes-mckinney-pdf-free.PDF
 |   ├── https://www.ibm.com/br-pt/think/topics/data-science
+
+
+Explorei o uso do NotebookLM com curadoria de fontes, engenharia de prompts e criação de materiais de estudo sobre IA Generativa, RPA e Análise de Dados. Projeto desenvolvido para demonstrar habilidades em curadoria de conhecimento e uso de IA como ferramenta de aprendizagem ativa.
